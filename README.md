@@ -5,8 +5,8 @@ wherever I am.
 
 # I. Calculus
 
-## 1.1 Series
-### Geometric series
-### Arithmetic series
+1.1 Series
+    Geometric series
+    Arithmetic series
 
 # II. Algebra
